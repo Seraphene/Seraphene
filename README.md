@@ -68,6 +68,7 @@ const kimAndrei = {
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 
 **Tools & Platforms**
 
@@ -108,6 +109,6 @@ const kimAndrei = {
 <div align="center">
   <sub>
     <em>"Tony Stark was able to build this in a cave! With a box of scraps!"</em><br/>
-    <strong>— I have the internet. No excuses. ⚡</strong>
+    <strong>— I have the AI. No excuses. ⚡</strong>
   </sub>
 </div>
