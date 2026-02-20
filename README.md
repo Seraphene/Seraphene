@@ -41,7 +41,7 @@ const kimAndrei = {
   location:  "Philippines 🇵🇭",
   learning:  ["Cloud Architecture", "Mobile Dev", "System Design"],
   interests: ["Web Apps", "UI/UX", "Automation", "Open Source"],
-  motto:     "Tony Stark built his suit in a cave — I have WiFi ⚡",
+  motto:     "Tony Stark was able to build this in a cave! — I have Claude, GPT, and Gemini ",
 };
 ```
 
