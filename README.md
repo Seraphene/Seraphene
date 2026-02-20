@@ -5,12 +5,7 @@
 
   <br>
 
-  ### 🐍 Eating My Contributions
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Seraphene/Seraphene/output/github-contribution-grid-snake.svg">
-  </picture>
-
+  ### 🏙️ My Contribution City
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Commit Graph" width="800">
 
 </div>
