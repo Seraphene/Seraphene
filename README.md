@@ -24,3 +24,8 @@
   <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Commit Graph" width="800">
 
 </div>
+
+---
+<div align="center">
+  <sub><i>"Tony Stark was able to build this in a cave! With a box of scraps!"</i></sub>
+</div>
