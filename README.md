@@ -24,8 +24,9 @@
         </a>
       </td>
       <td align="center">
+        <br>
         <h3>🏙️ My Contribution City</h3>
-        <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Commit Graph" width="500">
+        <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Commit Graph" width="500">
       </td>
     </tr>
   </table>
