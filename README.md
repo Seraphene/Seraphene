@@ -22,7 +22,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Seraphene&theme=radical" />
       <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Seraphene&theme=default" />
-      <img src="https://streak-stats.demolab.com?user=Seraphene&theme=default" alt="GitHub Streak" width="60%" />
+      <img src="https://streak-stats.demolab.com?user=Seraphene&theme=default" alt="GitHub Streak"/>
     </picture>
   </a>
 </div>
