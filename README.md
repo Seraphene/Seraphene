@@ -1,11 +1,16 @@
 <div align="center">
 
-  ### 🏆 GitHub Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Seraphene&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+  ### 🔥 My Commit Streak
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Seraphene&theme=radical)](https://git.io/streak-stats)
 
   <br>
 
-  ### 🔥 My Commit Streak
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Seraphene&theme=radical)](https://git.io/streak-stats)
+  ### 🐍 Eating My Contributions
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
+  </picture>
+
 
 </div>
