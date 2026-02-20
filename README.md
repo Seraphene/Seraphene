@@ -5,7 +5,6 @@
 
   <br>
 
-  ### 🏙️ My Contribution City
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric Commit Graph" width="800">
-
-</div>
+  ### 🔴 Play Connect 4 With Me!
+  **Join the game! Click a column to drop your piece.**
+  </div>
