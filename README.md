@@ -34,9 +34,6 @@
   <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-gitblock.svg" alt="Top language share" width="360" />
 </div>
 
-<div align="center">
-  <sub>Auto-generated daily via GitHub Actions using repo-local style settings.</sub>
-</div>
 
 ---
 
