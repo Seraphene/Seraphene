@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kim%20Andrei&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=35&desc=IT%20Student%20%C2%B7%20Web%20Developer%20%C2%B7%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+things+from+scratch+%F0%9F%94%A7;Web+Developer+%26+IT+Student+%F0%9F%8E%93;Always+learning%2C+never+stopping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Building+things+from+scratch+%F0%9F%94%A7;Web+Developer+%26+IT+Student+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 <br/>
 <!-- Social Badges -->
