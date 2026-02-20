@@ -19,16 +19,22 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Seraphene&theme=radical#gh-dark-mode-only" alt="GitHub Streak" />
-    <img src="https://streak-stats.demolab.com?user=Seraphene&theme=default#gh-light-mode-only" alt="GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Seraphene&theme=radical" />
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Seraphene&theme=default" />
+      <img src="https://streak-stats.demolab.com?user=Seraphene&theme=default" alt="GitHub Streak"/>
+    </picture>
   </a>
 </div>
 
 ## 🏙️ Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg#gh-dark-mode-only" alt="3D contribution city dark mode" width="100%" />
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-green.svg#gh-light-mode-only" alt="3D contribution city light mode" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-green.svg" />
+    <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-green.svg" alt="3D contribution city with radar and languages" width="100%" />
+  </picture>
 </div>
 
 ---
