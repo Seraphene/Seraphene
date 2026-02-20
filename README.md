@@ -31,9 +31,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-green.svg" />
-    <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-green.svg" alt="3D contribution city with radar and languages" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-green.svg" />
+    <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-green.svg" alt="3D contribution city with radar and languages" width="100%" />
   </picture>
 </div>
 
