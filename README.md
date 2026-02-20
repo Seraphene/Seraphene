@@ -18,12 +18,14 @@
   <table>
     <tr>
       <td align="center">
-        ### 🔥 My Commit Streak
-        [![GitHub Streak](https://streak-stats.demolab.com?user=Seraphene&theme=radical)](https://git.io/streak-stats)
+        <h3>🔥 My Commit Streak</h3>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=Seraphene&theme=radical" alt="GitHub Streak">
+        </a>
       </td>
       <td align="center">
-        ### 🏙️ My Contribution City
-        <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Commit Graph" width="500">
+        <h3>🏙️ My Contribution City</h3>
+        <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Isometric Commit Graph" width="500">
       </td>
     </tr>
   </table>
