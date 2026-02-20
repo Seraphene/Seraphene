@@ -1,8 +1,14 @@
 name: Readme Connect 4
+
 on:
   issues:
     types: [opened]
   workflow_dispatch:
+
+# Explicitly grant permission to update the README and manage issues
+permissions:
+  contents: write
+  issues: write
 
 jobs:
   play:
