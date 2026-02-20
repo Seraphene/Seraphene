@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Hi, I'm [Your Name] 👋</h1>
-  <p><b>IT Student | Web Developer | Blockchain Enthusiast</b></p>
+  <h1>Hi, I'm Kim Andrei 👋</h1>
+  <p><b>IT Student | Web Developer | Tech Enthusiast</b></p>
 
   <a href="mailto:kimandrei012@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
