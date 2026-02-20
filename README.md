@@ -26,12 +26,12 @@
 ## 🏙️ Contribution City
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-city.svg" alt="3D contribution city" width="720" />
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="720" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-radar.svg" alt="Contribution radar" width="360" />
-  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-langs.svg" alt="Top language share" width="360" />
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-view.svg" alt="Contribution radar" width="360" />
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-gitblock.svg" alt="Top language share" width="360" />
 </div>
 
 <div align="center">
