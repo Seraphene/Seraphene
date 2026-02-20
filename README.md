@@ -26,15 +26,16 @@
 ## 🏙️ Contribution City
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-green.svg" />
-    <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D isometric contribution graph" width="850" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-city.svg" alt="3D contribution city" width="720" />
 </div>
 
 <div align="center">
-  <sub>Auto-generated daily via GitHub Actions.</sub>
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-radar.svg" alt="Contribution radar" width="360" />
+  <img src="https://raw.githubusercontent.com/Seraphene/Seraphene/master/profile-3d-contrib/profile-langs.svg" alt="Top language share" width="360" />
+</div>
+
+<div align="center">
+  <sub>Auto-generated daily via GitHub Actions using repo-local style settings.</sub>
 </div>
 
 ---
